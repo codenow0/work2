@@ -1,1 +1,3 @@
 it is on github
+
+now i push it from git to git hub
